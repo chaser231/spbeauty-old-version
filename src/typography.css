@@ -11,27 +11,52 @@ body {
 }
 
 .title {
-  font-weight: 700;
-  font-size: 14px;
+  font-weight: 500;
+  font-size: 20px;
   line-height: 18px;
 }
 
+/*
 .text-lg {
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
-}
+}*/
 
 .text-md {
-  font-weight: 400;
+  font-weight: 500;
   font-size: 15px;
-  line-height: 17px;
+  line-height: 18px;
 }
 
 .text-rg-bd {
-  font-weight: 700;
-  font-size: 14px;
+  font-weight: 400;
+  font-size: 15px;
   line-height: 18px;
+}
+
+.text-rg{
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18px;
+}
+
+.text-caption-md {
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.text-caption-rg {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.text-caption-sm {
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 8px;
 }
 
 span,
@@ -41,8 +66,8 @@ div,
 input,
 .text-rg {
   font-weight: 400;
-  font-size: 14px;
-  line-height: 16px;
+  font-size: 15px;
+  line-height: 18px;
 }
 
 .caption {

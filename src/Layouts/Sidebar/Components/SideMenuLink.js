@@ -4,7 +4,7 @@ import styled from 'styled-components';
 
 function SideMenuLink({name, isActive, icon}) {
     const Container = styled.div`
-        background-color: ${isActive ? '#DFDFDF' : '#F8FAFC'};
+        background-color: ${isActive ? '#e6eaee' : '#F8FAFC'};
         padding-top: 12px;
         padding-bottom: 12px;
         border-radius: 20px;
@@ -15,7 +15,8 @@ function SideMenuLink({name, isActive, icon}) {
     `;
 
     const TextContainer = styled.div`
-        margin-left: 12px;
+        margin-left: 16px;
+        margin-right: 16px;
     `;
 
     if (icon === undefined) {
