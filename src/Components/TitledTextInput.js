@@ -6,8 +6,9 @@ const Input = styled.input`
     border: 1px solid #E2E8F0;
     background: #F8FAFC;
     color: #0f172a;
+    width: 450px;
     &:hover {
-        background-color: #D9E2EFB8;
+        background-color: #F8FAFC;
     }
 `;
 

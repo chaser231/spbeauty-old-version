@@ -1,1 +1,13 @@
 /* Временные стили добавлять здесь */
+body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+.text-rg-profile {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #64748B;
+}

@@ -11,6 +11,7 @@ const Select = styled.select`
     border: 1px solid #E2E8F0;
     background-color: #F8FAFC;
     color: #0F172A;
+    width: 450px;
     &:hover {
         background-color: #F8FAFC;
     }
